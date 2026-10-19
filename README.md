@@ -2,7 +2,7 @@
 
 Dom sista två veckorna ska ni bygga en egen app i React Native med Expo. Välj något ni själva skulle vilja använda eller ta en av idéerna nedan. Appen ska ha inloggning, en egen backend och en databas. Backend ska vara deployad.
 
-Jobba 2–3 personer per grupp.
+Jobba 2–3 personer per grupp. Ni ska presentera er app för klassen på workshopen den 3:e november.
 
 ## Måndags-uppgift: planera er idé
 
