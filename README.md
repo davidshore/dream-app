@@ -57,13 +57,13 @@ Egna idéer går också bra! Vill ni bygga ett spel behöver användaren kunna s
 
 ## Så lägger ni upp arbetet
 
-Vecka 1: Bestäm idén, skapa repo och bygg inloggning, databas och huvudfunktion. Försök deploya redan dag 2–3. Visa mig en första fungerande version i slutet av veckan.
+Vecka 1: Bestäm idén, skapa repo och bygg inloggning, databas och huvudfunktion. Försök deploya redan dag 2–3.
 
-Vecka 2: Låt en annan grupp testa, förbättra appen och rätta fel. Gör klart tester och README och förbered redovisningen till sista dagen.
+Vecka 2: Gör klart tester och README och förbered redovisningen till sista dagen.
 
 - Använd ett gemensamt GitHub-repo, eller separata repon för app och backend med länkar mellan dem.
 - Ha en enkel uppgiftstavla med Att göra, Pågår och Klart och stäm av kort varje dag.
-- Använd branches och pull requests. Låt en gruppmedlem läsa ändringarna innan ni slår ihop dem.
+- Använd branches och pull requests. Låt en gruppmedlem läsa ändringarna innan ni mergar.
 - Alla ska skriva kod och arbeta med både app och backend, gärna tillsammans. Alla ska kunna förklara ett flöde från appen till databasen och tillbaka.
 
 Börja med manuellt inmatad data. AI, externa API:er, kartor, bilder, pushnotiser och chatt kan ni lägga till när grunden fungerar.
